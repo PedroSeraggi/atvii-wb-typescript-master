@@ -2,8 +2,8 @@
 Lista 2
 
 1 - Pedro Fernandes Seraggi
+ <br>
 2 - João Pedro Lopes Rezende
-
 
 -- Como rodar a aplicação --
 
